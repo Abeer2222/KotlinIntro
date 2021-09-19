@@ -1,5 +1,5 @@
 fun main(){
-    val number = 1 + (10* Math.random()).toInt()
+    val number = 8
     print("guess a number between 0 and 10 ")
     try {
         val guess= readLine()!!.toInt()
